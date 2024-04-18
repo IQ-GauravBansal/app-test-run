@@ -1,9 +1,5 @@
-# nodejs-helloworld-api-project
-Hello world api project in nodejs
 
-
-
-1. Become a root user in EC2 server. 
+1. Become a root user. 
 sudo su - root
 
 2. Install GIT Client in EC2 server
